@@ -10,6 +10,8 @@ g.stats.glob #
 write.fstat # write Fstat data file
 write.struct # write file for running in structure
 
+
+
 library(dplyr)
 library(reshape2)
 library(tidyr)
