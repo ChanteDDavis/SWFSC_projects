@@ -1,4 +1,4 @@
-##### HierFST ####
+##### HierFST #####
 # some functions to use
 boot.ppfst # performs bootstrapping over loci of pairwise Fst
 basic.stats # basic statistics
